@@ -1,4 +1,3 @@
-#https://pythonprogramming.net/static/downloads/machine-learning-data/titanic.xls
 import matplotlib.pyplot as plt
 from matplotlib import style
 style.use('ggplot')
